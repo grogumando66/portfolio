@@ -1,3 +1,5 @@
+import profileImage from '../assets/vishwanath-pic.jpeg';
+
 export const personalInfo = {
   name: 'Kakubal Vishwanath Saikrishna',
   title: 'Software Engineering Student | AI/ML & Systems Enthusiast',
@@ -10,8 +12,7 @@ export const personalInfo = {
   ],
   github: 'https://github.com/grogumando66',
   linkedin: 'https://www.linkedin.com/in/your-linkedin-profile',
-  profileImage:
-    'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80',
+  profileImage,
 };
 
 export const aboutText =
